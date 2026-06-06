@@ -20,6 +20,7 @@ const power = function(base, exponent) {
 
 const factorial = function(num) {
   let arr = []
+  
 	if(num == 0) {
     return 1;
   } else if (num >= 1) {
